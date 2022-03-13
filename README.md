@@ -1,6 +1,6 @@
 # DELANI STUDIO PROJECT
 
-This is a clone to my akan age and gender project landing page.
+This is a clone to my delani studio project landing page.
 
 By Martha Munzinga Nyagikuyu
 
