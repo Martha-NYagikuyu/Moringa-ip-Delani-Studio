@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.hero{
+    background: url(./images/hero-image.jpg);
+    background-size: cover;
+    background-position: relative;
+    background-repeat: no-repeat;
+    height: 110vh;
+    width: 100%;
+}
+.services{
+    background: url(./images/s_image.jpg);
+    background-size: cover;
+    background-position: relative;
+    background-repeat: no-repeat;
+    height: 60vh;
+    width: 100%;
+}
+.contacts{
+    background: url(./images/c_image.jpg);
+    background-size: cover;
+    background-position: relative;
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 100%;
+}
+.hero-content p{
+    font-size: 10px;
+}
+.hero-content .img{
+    margin-top: -20px;
+    padding-top: 20px;
+
+}
+form input , form textarea{
+    background-color: transparent;
+    outline: 1px solid white;
+} form input{
+    width: 400px;
+
+}
+form textarea{
+    width: 800px;
+    height: 200px;
+}
+.footer-bottom{
+    font-size: 14px;
+}
+
