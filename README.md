@@ -6,9 +6,9 @@ By Martha Munzinga Nyagikuyu
 
 ## Description
 
-The purpose of my Akan age and gender project is to indicate about akan naming in ghanian culture in ghana. The site contains 
+The purpose of my delani studio project is to indicates the services being offered to pitch a product. The site contains 
 
-five sections; about my project,the title,heading,description,age and gender form and the submit button.
+six sections; about my project,the title,services,what we do,portfolioand the filling form.
 
 ## Setup requirements
 <ol>
