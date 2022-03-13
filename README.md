@@ -18,7 +18,7 @@ six sections; about my project,the title,services,what we do,portfolioand the fi
 
 ## Used Technoligies
 
-HTML.CSS and JavaScript is used in the project
+HTML.CSS,Images and JavaScript is used in the project
 
 ## Support and Contact Details
 
