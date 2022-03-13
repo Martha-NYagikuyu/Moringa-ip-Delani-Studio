@@ -13,7 +13,7 @@ six sections; about my project,the title,services,what we do,portfolioand the fi
 ## Setup requirements
 <ol>
 <li>Clone the project using git -clone . If you are not able to clone it, you can download the files as
-<li>you need to have a laptop or a mobile phone to access Akan age and gender project.</li>
+<li>you need to have a laptop or a mobile phone to access delani studio project.</li>
 </ol>
 
 ## Used Technoligies
