@@ -1,4 +1,4 @@
-# DELANI STUDIO P
+# DELANI STUDIO PROJECT
 
 This is a clone to my akan age and gender project landing page.
 
