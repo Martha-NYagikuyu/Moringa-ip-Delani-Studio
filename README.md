@@ -6,9 +6,9 @@ By Martha Munzinga Nyagikuyu
 
 ## Description
 
-The purpose of my delani studio project is to indicates the services being offered to pitch a product. The site contains 
+The purpose of my delani studio project is to indicates the services being offered to pitch a product vision. The site contains 
 
-six sections; about my project,the title,services,what we do,portfolioand the filling form.
+six sections; about my project,the title,services,what we do,portfolio and the filling form.
 
 ## Setup requirements
 <ol>
